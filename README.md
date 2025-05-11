@@ -43,7 +43,6 @@
 
    instagram -> parsa_yavari.ir
 
-<h1><a herf="https://donito.me/ParsaYavari" target="_blank">Donate</a></h1>
-<a herf="https://donito.me/ParsaYavari" target="_blank">Donate</a>
+<h1><a herf="https://donito.me/ParsaYavari">Donate</a></h1>
 </body>
 </html>
