@@ -7,7 +7,7 @@
 <body>
 <h1> Forohar 🛜</h1>
 
-    Forohar the Iranian Termux For Windows
+Forohar the Iranian Termux For Windows
 
 <h1> How To Install ♻️</h1>
 
