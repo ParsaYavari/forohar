@@ -13,27 +13,7 @@ Forohar the Iranian Termux For Windows
 
    1 .  Install a <a href="https://www.python.org/downloads/">Python</a> 
 
-   2 .  Open <p>Install.bat</p> And Wait For Download
-   
-   2 .  Open Config
-
-   3 . Run App
-
-
-<h1> Docs 📜</h1>
-
-   For Install Packages : 
-
-   <p>pkg install 'Name Of Package'</p>
-
-   Packages List :
-
-   <p>python</p>
-   <p>git</p>
-   <p>nodejs</p>
-   <p>wget</p>
-   <p>curl</p>
-   <p>nmap</p>
+   2 . Run ForoharSetup.exe
 
 <h1>Support 🔱</h1>
 
